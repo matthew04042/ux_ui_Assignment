@@ -511,6 +511,7 @@ const Home: FunctionComponent = () => {
                       font-size: var(--font-size-base);
                       text-decoration: line-through;
                       line-height: 150%;
+                      left: 0.2rem;
                       color: var(--color-gray-4);
                     `}
                   >
@@ -707,6 +708,7 @@ const Home: FunctionComponent = () => {
                       font-size: var(--font-size-base);
                       text-decoration: line-through;
                       line-height: 150%;
+                      left: 0.2rem;
                       color: var(--color-gray-4);
                     `}
                   >
@@ -1711,6 +1713,7 @@ const Home: FunctionComponent = () => {
                       font-size: var(--font-size-base);
                       text-decoration: line-through;
                       line-height: 150%;
+                      left: 0.2rem;
                       color: var(--color-gray-4);
                     `}
                   >

@@ -819,7 +819,7 @@ const SingleProduct: FunctionComponent = () => {
                 className={css`
                   position: absolute;
                   top: 26.875rem;
-                  left: 8.875rem;
+                  left: 8.715rem;
                   width: 13.438rem;
                   height: 4rem;
                   cursor: pointer;
@@ -1367,6 +1367,7 @@ const SingleProduct: FunctionComponent = () => {
                       font-size: var(--font-size-base);
                       text-decoration: line-through;
                       line-height: 150%;
+                      left: 0.2rem;
                       color: var(--color-gray-4);
                     `}
                   >

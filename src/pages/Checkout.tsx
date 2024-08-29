@@ -1172,7 +1172,7 @@ const Checkout: FunctionComponent = () => {
                       font-weight: 500;
                     `}
                   >
-                    Direct Bank Transfer
+                    Credit Card
                   </div>
                   <div
                     className={css`

@@ -402,6 +402,7 @@ const Shop1: FunctionComponent = () => {
                           position: relative;
                           font-size: var(--font-size-base);
                           text-decoration: line-through;
+                          left: 0.3rem;
                           line-height: 150%;
                           color: var(--color-gray-4);
                           white-space: pre-wrap;
