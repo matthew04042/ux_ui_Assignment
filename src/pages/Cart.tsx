@@ -1422,8 +1422,8 @@ const Cart: FunctionComponent = () => {
         <PortalPopup
           overlayColor="rgba(113, 113, 113, 0.3)"
           placement="Top right"
-          top={-300}
-          right={-10}
+          top={-800}
+          right={-100}
           relativeLayerRef={antDesignshoppingCartOutliIconRef}
           onOutsideClick={closeCartSlider}
         >
