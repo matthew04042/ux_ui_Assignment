@@ -1123,7 +1123,7 @@ const SingleProduct: FunctionComponent = () => {
               className={css`
                 position: absolute;
                 top: 0rem;
-                left: 11.813rem;
+                left: 12.913rem;
               `}
             >
               Additional Information
